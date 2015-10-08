@@ -7,6 +7,7 @@ gem 'test-unit'
 gem 'rails', '4.2.4'
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets', '3.4.0'
+gem 'bcrypt-ruby'
 
 group :development, :test do
   gem 'sqlite3'
